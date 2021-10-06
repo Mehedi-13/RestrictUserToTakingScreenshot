@@ -1,0 +1,2 @@
+rootProject.name = "Restrict user to taking screenshot"
+include ':app'
